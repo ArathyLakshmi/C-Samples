@@ -1,0 +1,6 @@
+c:\users\arath\onedrive\documents\visual studio 2015\Projects\SumOfMultiples\SumOfMultiples\bin\Debug\SumOfMultiples.exe.config
+c:\users\arath\onedrive\documents\visual studio 2015\Projects\SumOfMultiples\SumOfMultiples\bin\Debug\SumOfMultiples.exe
+c:\users\arath\onedrive\documents\visual studio 2015\Projects\SumOfMultiples\SumOfMultiples\bin\Debug\SumOfMultiples.pdb
+c:\users\arath\onedrive\documents\visual studio 2015\Projects\SumOfMultiples\SumOfMultiples\obj\Debug\SumOfMultiples.csprojResolveAssemblyReference.cache
+c:\users\arath\onedrive\documents\visual studio 2015\Projects\SumOfMultiples\SumOfMultiples\obj\Debug\SumOfMultiples.exe
+c:\users\arath\onedrive\documents\visual studio 2015\Projects\SumOfMultiples\SumOfMultiples\obj\Debug\SumOfMultiples.pdb
